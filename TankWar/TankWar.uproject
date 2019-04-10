@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{34EBA234-4D56-4A86-F1CA-669412192F8B}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TankWar",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
